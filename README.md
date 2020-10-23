@@ -1,8 +1,7 @@
 ### Hi there, I'm Olivier 👋
 
-## I'm a strudent in Robotics and Space engineering! I have a deep passion for finance and programming!
+## I'm a strudent in Robotics and Space engineering | I have a deep passion for finance and programming!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a FinTech startup
 - 🌱 I’m currently learning on a lot of things
