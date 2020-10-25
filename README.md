@@ -44,9 +44,9 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Public Repos Stats</summary>
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KookaS&show_icons=true&include_all_commits=true&icon_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+[![KookaS Github's stats](https://github-readme-stats.vercel.app/api?username=KookaS&show_icons=true&include_all_commits=true&icon_color=blue)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
