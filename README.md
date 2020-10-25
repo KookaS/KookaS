@@ -39,6 +39,16 @@
 [<img align="left" alt="Changemaker" width="40px" src="https://www.epfl.ch/about/overview/wp-content/uploads/2020/07/logo-epfl-1024x576.png" />][changemaker]
 
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KookaS&show_icons=true&include_all_commits=true&icon_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+
 [instagram]: https://www.instagram.com/olivier_charrez/
 [linkedin]: https://www.linkedin.com/in/olivier-charrez/
 [facebook]: https://www.facebook.com/olivier.charrez
