@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Changemaker" width="40px" src="https://www.epfl.ch/about/overview/wp-content/uploads/2020/07/logo-epfl-1024x576.png" />][changemaker]
 
-<br /><br /><br />
+<br /><br />
 
 ### Languages and Tools:
 
