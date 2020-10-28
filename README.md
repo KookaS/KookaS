@@ -46,7 +46,9 @@
 <details>
   <summary>:zap: Public Repos Stats</summary>
   
-[![KookaS Github's stats](https://github-readme-stats.vercel.app/api?username=KookaS&show_icons=true&include_all_commits=true&icon_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+[![KookaS Github's stats](https://github-readme-stats.vercel.app/api?username=KookaS&show_icons=true&icon_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KookaS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
