@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Olivier Charrez | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Olivier Charrez | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Olivier Charrez | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Olivier Charrez | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Olivier Charrez | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1920px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
+[<img align="left" alt="Olivier Charrez | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1920px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br /><br />
 
