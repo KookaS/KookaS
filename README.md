@@ -17,7 +17,7 @@
 
 ### My Projects:
 
-[<img align="left" alt="Changemaker" width="40px" src="https://www.epfl.ch/about/overview/wp-content/uploads/2020/07/logo-epfl-1024x576.png" />][changemaker]
+[<img align="left" alt="Changemaker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/2880px-Logo_EPFL.svg.png" />][changemaker]
 
 <br /><br />
 
