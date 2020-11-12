@@ -19,6 +19,9 @@
 
 [<img align="left" alt="Changemaker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/2880px-Logo_EPFL.svg.png" />][changemaker]
 
+[<img align="left" alt="Charrez Architecture" width="40px" src="http://localhost:3000/charrez_logo.png" />][charrez-architecture]
+
+
 <br /><br />
 
 ### Languages and Tools:
@@ -57,3 +60,4 @@
 [linkedin]: https://www.linkedin.com/in/olivier-charrez/
 [facebook]: https://www.facebook.com/olivier.charrez
 [changemaker]: https://www.epfl.ch/innovation/startup/students/epfl-changemakers/
+[charrez-architecture]: https://architecture.charrez.ch/accueil
