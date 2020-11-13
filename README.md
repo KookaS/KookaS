@@ -46,7 +46,7 @@
 <br />
 
 <details>
-  <summary>:zap: Public Repos Stats</summary>
+  <summary>:zap: Public Repos Stats(I have a lot in private unfortunately)</summary>
   
 [![KookaS Github's stats](https://github-readme-stats.vercel.app/api?username=KookaS&show_icons=true&icon_color=blue)](https://github.com/anuraghazra/github-readme-stats)
 
