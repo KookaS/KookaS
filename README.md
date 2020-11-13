@@ -19,7 +19,7 @@
 
 [<img align="left" alt="Changemaker" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_EPFL.svg/2880px-Logo_EPFL.svg.png" />][changemaker]
 
-[<img align="left" alt="Charrez Architecture" width="40px" src="http://localhost:3000/charrez_logo.png" />][charrez-architecture]
+[<img align="left" alt="Charrez Architecture" width="40px" src="https://architecture.charrez.ch/charrez_logo.png" />][charrez-architecture]
 
 
 <br /><br />
