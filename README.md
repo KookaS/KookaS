@@ -39,11 +39,7 @@
 <img align="left" alt="Next.js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
 <img align="left" alt="Nginx" width="40px" src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" />
 
-<br />
-
----
-
-<br />
+<br /><br /><br /><br />
 
 <details>
   <summary>:zap: Public Repos Stats(I have a lot in private unfortunately)</summary>
