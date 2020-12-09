@@ -3,7 +3,7 @@
 ## I'm a strudent in Robotics and Space engineering | I have a deep passion for finance and programming!
 
 
-- 🔭 I’m currently working on a FinTech startup
+- 🔭 I’m currently working on a FinTech startup based on low-level ML
 - 🌱 I’m currently learning a lot of things
 - ⚡ Fun fact: I have a bartending license, always usefull
 
