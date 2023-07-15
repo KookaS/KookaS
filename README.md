@@ -38,6 +38,4 @@
 
 </details>
 
-
-
-[instagram]: https://www.instagram.com/olivier_charrez/
+[linkedin]: https://www.linkedin.com/in/olivier-charrez/
