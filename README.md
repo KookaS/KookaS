@@ -20,8 +20,9 @@
 <img align="left" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1920px-The_C_Programming_Language_logo.svg.png" />
 <img align="left" alt="DynamoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2880px-MongoDB_Logo.svg.png" />
+<img align="left" alt="MongoDB" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2880px-MongoDB_Logo.svg.png" />
 <img align="left" alt="AWS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+<img align="left" alt="Terraform" width="40px" src="https://gitlab.com/uploads/-/system/group/avatar/13943452/terraform-icon.png?width=40" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -40,7 +41,3 @@
 
 
 [instagram]: https://www.instagram.com/olivier_charrez/
-[linkedin]: https://www.linkedin.com/in/olivier-charrez/
-[facebook]: https://www.facebook.com/olivier.charrez
-[changemaker]: https://www.epfl.ch/innovation/startup/students/epfl-changemakers/
-[charrez-architecture]: https://architecture.charrez.ch/accueil
