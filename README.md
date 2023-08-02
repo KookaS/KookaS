@@ -3,7 +3,7 @@
 ## I'm a software developer, MSc in Robotics and Space engineering | I have a deep passion for finance and programming!
 
 
-- 🌱 I’m currently learning a lot of things
+- 🌱 I’m working on an AI fashion shopping app: [Dresspeng organization](https://github.com/dresspeng)
 - ⚡ Fun fact: I have a bartending license, always usefull
 
 ### Connect with me:
