@@ -2,8 +2,6 @@
 
 ## I'm a software developer, MSc in Robotics and Space engineering | I have a deep passion for finance and programming!
 
-
-- 🌱 I’m working on an AI fashion shopping app: [Vistimi organization](https://github.com/vistimi)
 - 🤖 Here is an AWS Terraform module for deep-learning and general purposes: [Terraform microservice](https://github.com/vistimi/terraform-aws-microservice)
 - ⚡ Fun fact: I have a bartending license, always usefull
 
