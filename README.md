@@ -1,8 +1,9 @@
 ### Hi there, I'm Olivier 👋
 
-## I'm a software developer, MSc in Robotics and Space engineering | I have a deep passion for programming!
+## I'm a software developer, MSc in Robotics | I have a deep passion for programming!
 
-- :man_student: I have a MSc. in Robotic engineer with a minor in Space technologies.
+- :man_student: I have a MSc. in Robotic engineering.
+- 📖 Here is a repo with ML modern implementations including LLM architecture, sharding strategies and kernel optimizations: [ML](https://github.com/KookaS/ml)
 - 🤖 Here is an AWS Terraform microservice for deep-learning inference and general purposes: [Terraform microservice](https://github.com/vistimi/terraform-aws-microservice)
 - ⚡ Fun fact: I have a bartending license, always usefull
 <!---
@@ -26,7 +27,7 @@
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
-<br /><br /><br /><br />
+<!-- <br /><br /><br /><br />
 
 <details>
   <summary>:zap: Public Repos Stats(I have a lot in private unfortunately)</summary>
@@ -37,4 +38,4 @@
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/olivier-charrez/
+[linkedin]: https://www.linkedin.com/in/olivier-charrez/ -->
