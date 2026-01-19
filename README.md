@@ -3,8 +3,8 @@
 ## I'm a software developer, MSc in Robotics | I have a deep passion for programming!
 
 - :man_student: I have a MSc. in Robotic engineering.
-- 📖 Here is a repo with ML modern implementations including LLM architecture, sharding strategies and kernel optimizations: [ML](https://github.com/KookaS/ml)
-- 🤖 Here is an AWS Terraform microservice for deep-learning inference and general purposes: [Terraform microservice](https://github.com/vistimi/terraform-aws-microservice)
+- 📖 Here is an repo with [ML modern implementations including LLM architecture, sharding strategies and kernel optimizations](https://github.com/KookaS/ml)
+- 🤖 Here is an [AWS Terraform microservice for deep-learning inference and general purposes](https://github.com/vistimi/terraform-aws-microservice)
 - ⚡ Fun fact: I have a bartending license, always usefull
 <!---
 - :computer: I've created a SaaS for web developer to manage form submissions, where you only pay for what you use: [JetForm](https://jetform.net)
